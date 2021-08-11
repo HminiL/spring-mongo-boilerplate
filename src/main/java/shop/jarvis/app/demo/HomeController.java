@@ -1,4 +1,4 @@
-package shop.jarvisprototype.app.demo;
+package shop.jarvis.app.demo;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

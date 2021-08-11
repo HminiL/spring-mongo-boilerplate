@@ -1,4 +1,4 @@
-package shop.jarvisprototype.app.demo;
+package shop.jarvis.app.demo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
